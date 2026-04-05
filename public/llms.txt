@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### Home
+https://example.com
+Metuki MB is your neighborhood coffee destination — browse our digital menu, place orders online, and experience craft coffee culture made for real coffee lovers.
+
+### Our Story
+https://example.com/our-story
+From humble beginnings to a beloved local brand, discover the heart and hustle behind Metuki MB — a new coffee shop redefining what community coffee culture truly means.
+
+### Craft & Signature Offerings
+https://example.com/craft
+Explore Metuki MB&#39;s signature drinks and handcrafted offerings — from bold espresso blends to seasonal specials. Order online and taste why we stand out among coffee shops near me.
+
+### Visit & Contact
+https://example.com/contact
+Looking for small coffee shops near me? Visit Metuki MB, get directions, check our hours, and connect with us — your next favorite coffee stop is closer than you think.
+
+### Products
+https://example.com/products
+Our Products - Metuki MB
+
+### Cart
+https://example.com/cart
+Your Cart
+
+### Checkout
+https://example.com/checkout
+Checkout
+
+### Login
+https://example.com/login
+Customer Login
+
+### Account
+https://example.com/account
+My Account
+
+### Order Success
+https://example.com/order-success
+Thank you for your order
+
+### Product Detail
+https://example.com/product/:slug
+Product Details - Metuki MB
+
+### Category
+https://example.com/category/:slug
+Products - Metuki MB
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
